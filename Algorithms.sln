@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array8", "Array8\Array8.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array9", "Array9\Array9.csproj", "{FCEE5100-C728-4BF8-BDF8-FE5363419F98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array10", "Array10\Array10.csproj", "{A16F7F05-70CC-491B-92AE-D6F638AACE3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{FCEE5100-C728-4BF8-BDF8-FE5363419F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCEE5100-C728-4BF8-BDF8-FE5363419F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCEE5100-C728-4BF8-BDF8-FE5363419F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A16F7F05-70CC-491B-92AE-D6F638AACE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16F7F05-70CC-491B-92AE-D6F638AACE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16F7F05-70CC-491B-92AE-D6F638AACE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16F7F05-70CC-491B-92AE-D6F638AACE3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
