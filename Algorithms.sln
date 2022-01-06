@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array5", "Array5\Array5.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array6", "Array6\Array6.csproj", "{F6C8F01B-AF47-4F0C-AAA5-D51F6EE3CE4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array7", "Array7\Array7.csproj", "{CF8F5150-0BB7-43F3-B91C-8206E6A681B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array7", "Array7\Array7.csproj", "{CF8F5150-0BB7-43F3-B91C-8206E6A681B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array8", "Array8\Array8.csproj", "{EB14CD7B-29D0-4F2C-A3A8-AF3995B99970}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array8", "Array8\Array8.csproj", "{EB14CD7B-29D0-4F2C-A3A8-AF3995B99970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array9", "Array9\Array9.csproj", "{FCEE5100-C728-4BF8-BDF8-FE5363419F98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{EB14CD7B-29D0-4F2C-A3A8-AF3995B99970}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB14CD7B-29D0-4F2C-A3A8-AF3995B99970}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB14CD7B-29D0-4F2C-A3A8-AF3995B99970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCEE5100-C728-4BF8-BDF8-FE5363419F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEE5100-C728-4BF8-BDF8-FE5363419F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEE5100-C728-4BF8-BDF8-FE5363419F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEE5100-C728-4BF8-BDF8-FE5363419F98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
