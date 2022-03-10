@@ -35,9 +35,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array14", "Array14\Array14.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array15", "Array15\Array15.csproj", "{9FD54A5A-745D-4BAD-9772-4D663941A9B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array16", "Array16\Array16.csproj", "{0DE75027-A63F-4F8F-9D37-B2F8BB904864}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array16", "Array16\Array16.csproj", "{0DE75027-A63F-4F8F-9D37-B2F8BB904864}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array17", "Array17\Array17.csproj", "{FD1A8EF0-5077-40C1-8314-1058F3F52AD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array17", "Array17\Array17.csproj", "{FD1A8EF0-5077-40C1-8314-1058F3F52AD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.RemoveDuplicatesFromSortedArray", "Leetcode.RemoveDuplicatesFromSortedArray\Leetcode.RemoveDuplicatesFromSortedArray.csproj", "{C0B72B7B-34A2-4DB0-B218-3B50B07ED2F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfArray", "SumOfArray\SumOfArray.csproj", "{329A52F7-E437-47EA-8CBC-91D877F3B69F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{FD1A8EF0-5077-40C1-8314-1058F3F52AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD1A8EF0-5077-40C1-8314-1058F3F52AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD1A8EF0-5077-40C1-8314-1058F3F52AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B72B7B-34A2-4DB0-B218-3B50B07ED2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B72B7B-34A2-4DB0-B218-3B50B07ED2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B72B7B-34A2-4DB0-B218-3B50B07ED2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B72B7B-34A2-4DB0-B218-3B50B07ED2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329A52F7-E437-47EA-8CBC-91D877F3B69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329A52F7-E437-47EA-8CBC-91D877F3B69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329A52F7-E437-47EA-8CBC-91D877F3B69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329A52F7-E437-47EA-8CBC-91D877F3B69F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
