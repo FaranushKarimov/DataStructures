@@ -41,7 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array17", "Array17\Array17.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode.RemoveDuplicatesFromSortedArray", "Leetcode.RemoveDuplicatesFromSortedArray\Leetcode.RemoveDuplicatesFromSortedArray.csproj", "{C0B72B7B-34A2-4DB0-B218-3B50B07ED2F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfArray", "SumOfArray\SumOfArray.csproj", "{329A52F7-E437-47EA-8CBC-91D877F3B69F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfArray", "SumOfArray\SumOfArray.csproj", "{329A52F7-E437-47EA-8CBC-91D877F3B69F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array18", "Array18\Array18.csproj", "{26C4AE07-1374-402C-ADFD-A75A92D8DEE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array19", "Array19\Array19.csproj", "{7CF4D3D7-9A82-4D37-965B-CDCCCEA21E54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{329A52F7-E437-47EA-8CBC-91D877F3B69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{329A52F7-E437-47EA-8CBC-91D877F3B69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{329A52F7-E437-47EA-8CBC-91D877F3B69F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C4AE07-1374-402C-ADFD-A75A92D8DEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C4AE07-1374-402C-ADFD-A75A92D8DEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C4AE07-1374-402C-ADFD-A75A92D8DEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C4AE07-1374-402C-ADFD-A75A92D8DEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF4D3D7-9A82-4D37-965B-CDCCCEA21E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF4D3D7-9A82-4D37-965B-CDCCCEA21E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF4D3D7-9A82-4D37-965B-CDCCCEA21E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF4D3D7-9A82-4D37-965B-CDCCCEA21E54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
