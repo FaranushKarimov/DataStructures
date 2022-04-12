@@ -16,7 +16,7 @@ namespace Array19
             }
             for(int i = 0; i < 10; i++)
             {
-                if(array[i] < array[k] && array[k] < array[n-1])
+                if(array[i] < array[0] && array[k] < array[n-1])
                 {
                     //Console.Write($"{array[i]}");
                     result = array[i];
